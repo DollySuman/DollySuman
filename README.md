@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DollySuman
-- 👀 I’m interested in coding and making fun projects
-- 😄 Pronouns: she/her
+You hate coding until you finally find the bug that has been hidden for hours at 3 AM.
+At that moment you feel like "Yesss I kinda love this you know"
+
 
 <!---
 DollySuman/DollySuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
